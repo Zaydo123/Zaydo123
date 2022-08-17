@@ -17,5 +17,4 @@ If you're a college admissions officer, HI!
 </p>
 ***
 
-```
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zaydo123&show_icons=true&theme=tokyonight)
