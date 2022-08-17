@@ -4,10 +4,10 @@
 ▀▀▀ ▀░░▀ ▄▄▄█ ▀▀▀░
 Discord: Zayd#1234
 Email : zaydalzein@gmail.com
-'''
-<p>
-About Me:
+```
 
+### About Me:
+<p>
 Hi there, I'm a 16 year old highschool student from the United States.
 I learned to program during March of 2020, so this page is like my coding logbook.
 Coding is a passtime for me, which is why I don't post too frequently, but I'd like to pursue it in college as well. 
