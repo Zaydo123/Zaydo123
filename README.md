@@ -8,7 +8,7 @@ Email : zaydalzein@gmail.com
 
 ### About Me:
 <p>
-17 year old highschool student from the United States.
+17 year old college studnet from the United States.
 If you have any questions about me or my projects, please feel free to reach out to me at my email or discord linked above.
 </p>
 
