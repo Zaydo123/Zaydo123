@@ -2,7 +2,7 @@
 ▀▀█ █▀▀█ █░░█ █▀▀▄
 ▄▀░ █▄▄█ █▄▄█ █░░█
 ▀▀▀ ▀░░▀ ▄▄▄█ ▀▀▀░
-Discord: Zayd#1234
+Discord: .zayd
 Email : zaydalzein@gmail.com
 ```
 
