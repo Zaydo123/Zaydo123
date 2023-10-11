@@ -3,12 +3,12 @@
 ▄▀░ █▄▄█ █▄▄█ █░░█
 ▀▀▀ ▀░░▀ ▄▄▄█ ▀▀▀░
 Discord: .zayd
-Email : zaydalzein@gmail.com
+Email : zayd@physics-central.com
 ```
 
 ### About Me:
 <p>
-17 year old college student from the United States.
+18 year old college student from the United States.
 If you have any questions about me or my projects, please feel free to reach out to me at my email or discord linked above.
 </p>
 
