@@ -32,8 +32,3 @@
 <img src="devicons/microsoftsqlserver-original.svg" style="width:50px;"/>
 <img src="devicons/tailwindcss-original.svg" style="width:50px;"/>
 </div>
-<style>
-  img[alt=dev-icon] { width: 50px; }
-</style>
-
-  
