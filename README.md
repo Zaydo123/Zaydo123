@@ -12,7 +12,7 @@
 > 18 year old college student from the United States.
 
 
-### Most Used
+### Main Technologies
 <div style="margin-bottom: 20px;gap:20px; display: flex ;flex-wrap: wrap;">
 <img src="devicons/jira-original.svg" style="width:50px;"/>
 <img src="devicons/confluence-original.svg" style="width:50px;"/>
