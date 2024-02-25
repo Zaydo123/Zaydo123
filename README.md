@@ -24,6 +24,7 @@
 <img src="devicons/mysql-original.svg" style="width:50px;"/>
 <img src="devicons/python-original.svg" style="width:50px;"/>
 <img src="devicons/java-original.svg" style="width:50px;"/>
+<img src="devicons/svelte-original.svg" style="width:50px;"/>
 <img src="devicons/react-original.svg" style="width:50px;"/>
 <img src="devicons/docker-original.svg" style="width:50px;"/>
 <img src="devicons/mongodb-original.svg" style="width:50px;"/>
