@@ -14,8 +14,6 @@
 
 ### Main Technologies
 <div style="margin-bottom: 20px;gap:20px; display: flex ;flex-wrap: wrap;">
-<img src="devicons/jira-original.svg" style="width:50px;"/>
-<img src="devicons/confluence-original.svg" style="width:50px;"/>
 <img src="devicons/html5-original.svg" style="width:50px;"/>
 <img src="devicons/javascript-original.svg" style="width:50px;"/>
 <img src="devicons/css3-original.svg" style="width:50px;"/>
@@ -32,4 +30,6 @@
 <img src="devicons/dotnetcore-original.svg" style="width:50px;"/>
 <img src="devicons/microsoftsqlserver-original.svg" style="width:50px;"/>
 <img src="devicons/tailwindcss-original.svg" style="width:50px;"/>
+<img src="devicons/jira-original.svg" style="width:50px;"/>
+<img src="devicons/confluence-original.svg" style="width:50px;"/>
 </div>
