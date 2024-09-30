@@ -1,4 +1,6 @@
 # Zayd Alzein
+> <a href = "https://zayd.cloud/resume.pdf">Resume</a> | <a href="https://www.linkedin.com/in/zayd-alzein-91888a25b/">LinkedIn</a>
+
 > *Solana* : **`2kRJ1DuPXmqFyfUTGjurgv4dbC2MmLRMdzSmKTJM7oZ9`**
 
 ### 📓 Student at UIC
@@ -6,8 +8,7 @@
 > 
 ### 🏗️ Fullstack Developer
 
-
-> ### Top Tools
+> ### Most Used
 <div style="margin-bottom: 20px;gap:20px; display: flex ;flex-wrap: wrap;">
 <img src="devicons/csharp-original.svg" style="width:50px;"/>
 <img src="devicons/dotnetcore-original.svg" style="width:50px;"/>
