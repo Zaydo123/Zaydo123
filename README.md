@@ -1,5 +1,5 @@
 # Zayd Alzein
-> <a href = "https://zayd.cloud/resume.pdf">Resume</a> | <a href="https://www.linkedin.com/in/zayd-alzein-91888a25b/">LinkedIn</a>
+> <a href = "https://zaydo123.github.io">Resume</a> | <a href="https://www.linkedin.com/in/zayd-alzein-91888a25b/">LinkedIn</a>
 
 > *Solana* : **`2kRJ1DuPXmqFyfUTGjurgv4dbC2MmLRMdzSmKTJM7oZ9`**
 
