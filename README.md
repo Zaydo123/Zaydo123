@@ -6,7 +6,7 @@
 ### 📓 Student at UIC
 > BS in Computer Science
 > 
-### 🏗️ Fullstack Developer
+### 🏗️ Full Stack Developer
 
 > ### Most Used
 <div style="margin-bottom: 20px;gap:20px; display: flex ;flex-wrap: wrap;">
