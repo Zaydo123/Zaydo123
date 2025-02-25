@@ -68,3 +68,4 @@ Hi, I'm a 19 year old Computer Science student at the University of Illinois at 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaydo123&theme=highcontrast)
