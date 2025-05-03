@@ -1,7 +1,7 @@
 
 # Zayd Alzein
-[Resume](https://zaydo123.github.io)
-[LinkedIn](https://www.linkedin.com/in/zayd-alzein-91888a25b/)
+[Resume](https://zayd.cloud/resume.pdf)
+[LinkedIn](https://www.linkedin.com/in/zayd-alzein)
 
 Hi, I'm a 19 year old Computer Science student at the University of Illinois at Chicago. Currently I am Software Developer at UIC and an incoming Realtime C++ Intern at Cboe Global Markets. I have a strong passion for trading and blockchain technology. Lastly, I'm also a volunteer SWE for the Quantitative Trading Club at UIC and create trading applications in my freetime.
 
