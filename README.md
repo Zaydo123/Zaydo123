@@ -4,7 +4,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;20+yrs+old+memecoin+addict+🚀;Always+building+new+stuff+🌟&center=true&width=380)
 
 [![Resume](https://img.shields.io/badge/Resume-PDF-success?style=flat-square&logo=adobeacrobatreader)](https://zayd.cloud/resume.pdf)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/zayd-alzein)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/zaydalzein)
 --
 
 
